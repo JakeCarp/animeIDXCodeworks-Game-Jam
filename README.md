@@ -24,6 +24,9 @@
 <h2>Genre is up to you!</h2>
 <p>Your game can be <strong>any genre</strong>—platformer, roguelike, puzzle, rhythm game, sim, visual novel, horror, comedy, etc. You don’t have to include literal tarot cards. You don’t even have to mention fate—just take the idea of “Draw Your Fate” and run with it in your own direction.</p>
 
+<h2>Additional Art Assets:</h2>
+<p>https://drive.google.com/drive/folders/1r2iWPvxISK1eHebchfSu3d6s5TbzkdUh?usp=sharing</p>
+
 <h2>🛠️ Rules</h2>
 <p>To keep things fair and creative, please follow these guidelines:</p>
 <ol>
