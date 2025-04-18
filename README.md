@@ -27,6 +27,8 @@
 <h2>Additional Art Assets:</h2>
 <p>https://drive.google.com/drive/folders/1r2iWPvxISK1eHebchfSu3d6s5TbzkdUh?usp=sharing</p>
 
+<p>Want to mess around with the Tarot Deck? Find a digital copy here: https://playingcards.io/rqdzaw</p>
+
 <h2>🛠️ Rules</h2>
 <p>To keep things fair and creative, please follow these guidelines:</p>
 <ol>
